@@ -48,22 +48,10 @@ int main(void)
 
 ```
 
+### OUTPUT
 
 
-
-
-
-
-
-
-
-
-
-
-
-##OUTPUT
-
-
+![alt text](<Screenshot from 2024-03-09 11-30-39.png>)
 
 
 
@@ -109,10 +97,10 @@ exit(0);}
 
 
 
-##OUTPUT
+### OUTPUT
 
 
-
+![alt text](<Screenshot from 2024-03-09 11-30-53.png>)
 
 
 
@@ -172,9 +160,9 @@ printf("Running ps with execlp. Now with path specified\n");
 
 
 
-##OUTPUT
+### OUTPUT
 
-
+![alt text](<Screenshot from 2024-03-09 11-33-21.png>)
 
 
 
